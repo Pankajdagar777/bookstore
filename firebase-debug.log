@@ -1,0 +1,21 @@
+[debug] [2024-03-02T13:36:51.231Z] ----------------------------------------------------------------------
+[debug] [2024-03-02T13:36:51.238Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Panka\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-03-02T13:36:51.239Z] CLI Version:   13.4.0
+[debug] [2024-03-02T13:36:51.239Z] Platform:      win32
+[debug] [2024-03-02T13:36:51.240Z] Node Version:  v21.6.2
+[debug] [2024-03-02T13:36:51.240Z] Time:          Sat Mar 02 2024 19:06:51 GMT+0530 (India Standard Time)
+[debug] [2024-03-02T13:36:51.241Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-03-02T13:36:51.262Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-03-02T13:36:51.264Z] > authorizing via signed-in user (pankajdagar713@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Panka\Desktop\Bookstore
+
